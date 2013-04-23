@@ -1,0 +1,12 @@
+ Basic 3 Design Coded by Bryan Paronto edited by Ian Wright
+
+Minimum Required File Manifest:
+
+customHomePage.master
+MasterPageConfiguration.xml
+HomePage.ascx
+PageFooter.ascx
+PageHeader.ascx
+custom.css
+images/  (dir)
+images/slides (dir)
